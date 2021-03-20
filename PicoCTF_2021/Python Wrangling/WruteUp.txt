@@ -1,0 +1,22 @@
+download semua file di terminal
+
+- open code inside ende.py with terminal or code editor
+
+- baca kode dengan seksama
+- untuk menjalankan code harus melalui format
+- ende.py (-e/-d) [file]  --> file dalam hal ini adalah 
+  file flag yang berupa ciphertext
+- didalam code tertulis -e digunakan untuk enkripsi data
+  << data_c = c.encrypt(data) >>
+- sementara -d digunakan untuk dekripsi data
+  << data_c = c.decrypt(data.encode()) >>
+
+- ubah permission file ende.py menjadi executable
+  chmod +x ende.py
+
+- jalankan ende.py dengan command
+  << python3 ende.py -d flag.txt.en >>
+
+- masukkan password dari pw.txt
+- flag muncul
+picoCTF{4p0110_1n_7h3_h0us3_dbd1bea4}
