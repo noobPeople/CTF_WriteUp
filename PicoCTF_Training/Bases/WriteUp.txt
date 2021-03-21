@@ -1,0 +1,5 @@
+buka base64 decoder
+copy paste ciphertext
+decode
+
+picoCTF{l3arn_th3_r0p35}

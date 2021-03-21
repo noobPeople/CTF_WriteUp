@@ -1,0 +1,8 @@
+download file
+find flag CTRL+F
+atau
+open terminal linux
+pakai command grep
+
+
+picoCTF{grep_is_good_to_find_things_5af9d829}

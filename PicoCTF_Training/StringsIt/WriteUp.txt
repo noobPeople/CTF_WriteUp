@@ -1,0 +1,7 @@
+picoCTF{5tRIng5_1T_7f766a23}
+
+buka di text editor / notepad
+cari kata kunci pico
+atau
+ketik command di linux
+strings <nama file>

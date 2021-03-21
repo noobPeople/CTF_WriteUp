@@ -1,0 +1,6 @@
+Gausah lihat table
+Buka vigenere decrypt online
+masukkan ciphertext
+masukkan key nya
+
+picoCTF{CRYPTOISFUN}
